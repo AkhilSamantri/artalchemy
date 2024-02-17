@@ -21,7 +21,7 @@ var db = mysql.createConnection({
     port: 3306
 });
 
-
+//abbcasfjdsjf
 var flag1=0;
 var flag2=0;
 var flag3=0;
